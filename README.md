@@ -1,2 +1,3 @@
 # Classification-on-hand-written-digits
-Classification on hand written digit
+
+In this project, I’ve programmed different Machine Learning algorithms from scratch in MATLAB to minimized error rate and therefore to improve classification accuracy. Datasets include a Training set, which contains 5000 images of handwritten random digits, and a Test set which has 500 images of handwritten random digits that used to test the accuracies of the algorithms. The labels for both datasets are provided. Digits can be classified as ten classes represent digits from “0” to “9” respectively. For supervised learning, we used all 5000 training images for training and then used the 500 test images for testing and error rate analyses. 
